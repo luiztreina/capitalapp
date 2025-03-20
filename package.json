@@ -1,0 +1,14 @@
+{
+  "name": "country-capital-app",
+  "version": "1.0.0",
+  "description": "A simple app to find the capital of any country.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "npx http-server -p 8080"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
